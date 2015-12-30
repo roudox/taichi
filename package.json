@@ -4,7 +4,7 @@
   "description": "chi",
   "main": "index.js",
   "scripts": {
-    "postinstall": ""npm install http-server -g",
+    "postinstall": "npm install http-server -g",
     "start": "http-server www"
   },
   "repository": {
